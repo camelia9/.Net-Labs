@@ -1,0 +1,16 @@
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\bin\Debug\netcoreapp2.0\LabUnitTest.deps.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\bin\Debug\netcoreapp2.0\LabUnitTest.runtimeconfig.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\bin\Debug\netcoreapp2.0\LabUnitTest.runtimeconfig.dev.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\bin\Debug\netcoreapp2.0\LabUnitTest.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\bin\Debug\netcoreapp2.0\LabUnitTest.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\bin\Debug\netcoreapp2.0\Lab3ClassLibrary.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\bin\Debug\netcoreapp2.0\Lab3ClassLibrary.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\obj\Debug\netcoreapp2.0\LabUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\obj\Debug\netcoreapp2.0\LabUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\obj\Debug\netcoreapp2.0\LabUnitTest.AssemblyInfoInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\obj\Debug\netcoreapp2.0\LabUnitTest.AssemblyInfo.cs
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\obj\Debug\netcoreapp2.0\LabUnitTest.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\LabUnitTest\obj\Debug\netcoreapp2.0\LabUnitTest.pdb

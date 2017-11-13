@@ -1,0 +1,6 @@
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab6\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.deps.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab6\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab6\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab6\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab6\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfoInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab6\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfo.cs

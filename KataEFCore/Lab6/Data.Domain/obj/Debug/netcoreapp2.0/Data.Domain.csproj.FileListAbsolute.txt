@@ -1,0 +1,36 @@
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.deps.json
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.dll
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csprojResolveAssemblyReference.cache
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csproj.CoreCompileInputs.cache
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfoInputs.cache
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfo.cs
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.dll
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\Andra\Desktop\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.deps.json
+C:\Users\Andra\Desktop\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\Andra\Desktop\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\Andra\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Andra\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfo.cs
+C:\Users\Andra\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\Andra\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\ASpirido\Desktop\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.deps.json
+C:\Users\ASpirido\Desktop\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\ASpirido\Desktop\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\ASpirido\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ASpirido\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASpirido\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfoInputs.cache
+C:\Users\ASpirido\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfo.cs
+C:\Users\ASpirido\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\ASpirido\Desktop\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.deps.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfoInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfo.cs
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.pdb

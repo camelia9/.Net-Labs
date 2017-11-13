@@ -1,0 +1,17 @@
+c:\Users\razvan romanescu\documents\visual studio 2017\Projects\Demo\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+c:\Users\razvan romanescu\documents\visual studio 2017\Projects\Demo\Data\bin\Debug\netcoreapp2.0\Data.dll
+c:\Users\razvan romanescu\documents\visual studio 2017\Projects\Demo\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+c:\Users\razvan romanescu\documents\visual studio 2017\Projects\Demo\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+c:\Users\razvan romanescu\documents\visual studio 2017\Projects\Demo\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+c:\Users\razvan romanescu\documents\visual studio 2017\Projects\Demo\Data\bin\Debug\netcoreapp2.0\Data.pdb
+c:\Users\razvan romanescu\documents\visual studio 2017\Projects\Demo\Data\obj\Debug\netcoreapp2.0\Data.dll
+c:\Users\razvan romanescu\documents\visual studio 2017\Projects\Demo\Data\obj\Debug\netcoreapp2.0\Data.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Demo\Demo\Data\obj\Debug\netcoreapp2.0\Data.csprojResolveAssemblyReference.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Demo\Demo\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Demo\Demo\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Demo\Demo\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Demo\Demo\Data\obj\Debug\netcoreapp2.0\Data.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Demo\Demo\Data\obj\Debug\netcoreapp2.0\Data.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Demo\Demo\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Demo\Demo\Data\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Demo\Demo\Data\bin\Debug\netcoreapp2.0\Data.pdb

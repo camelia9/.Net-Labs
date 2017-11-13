@@ -1,0 +1,9 @@
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\Lab3ClassLibrary\bin\Debug\netcoreapp2.0\Lab3ClassLibrary.deps.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\Lab3ClassLibrary\bin\Debug\netcoreapp2.0\Lab3ClassLibrary.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\Lab3ClassLibrary\bin\Debug\netcoreapp2.0\Lab3ClassLibrary.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\Lab3ClassLibrary\obj\Debug\netcoreapp2.0\Lab3ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\Lab3ClassLibrary\obj\Debug\netcoreapp2.0\Lab3ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\Lab3ClassLibrary\obj\Debug\netcoreapp2.0\Lab3ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\Lab3ClassLibrary\obj\Debug\netcoreapp2.0\Lab3ClassLibrary.AssemblyInfo.cs
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\Lab3ClassLibrary\obj\Debug\netcoreapp2.0\Lab3ClassLibrary.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab3\Lab3ClassLibrary\obj\Debug\netcoreapp2.0\Lab3ClassLibrary.pdb

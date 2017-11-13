@@ -1,0 +1,68 @@
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Business.dll
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Domain.dll
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.csprojResolveAssemblyReference.cache
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.csproj.CoreCompileInputs.cache
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfoInputs.cache
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfo.cs
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.deps.json
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.json
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.dev.json
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.dll
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.pdb
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Business.pdb
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.dll
+E:\dotNet17-18\Katas\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.pdb
+C:\Users\Andra\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.deps.json
+C:\Users\Andra\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.json
+C:\Users\Andra\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.dev.json
+C:\Users\Andra\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.dll
+C:\Users\Andra\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.pdb
+C:\Users\Andra\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\Andra\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\Andra\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+C:\Users\Andra\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\Andra\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\Andra\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+C:\Users\Andra\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Andra\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfo.cs
+C:\Users\Andra\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.dll
+C:\Users\Andra\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.pdb
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.deps.json
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.json
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.dev.json
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.dll
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.pdb
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfo.cs
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.dll
+C:\Users\ASpirido\Desktop\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.deps.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.dev.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfo.cs
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\KataEFCore\KataEFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.pdb

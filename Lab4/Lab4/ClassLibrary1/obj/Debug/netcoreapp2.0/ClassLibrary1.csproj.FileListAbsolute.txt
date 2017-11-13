@@ -1,0 +1,9 @@
+D:\R\Facultate\Anul III\I.Net\Laboratoare\Laborator4\Lab4\ClassLibrary1\bin\Debug\netcoreapp2.0\ClassLibrary1.deps.json
+D:\R\Facultate\Anul III\I.Net\Laboratoare\Laborator4\Lab4\ClassLibrary1\bin\Debug\netcoreapp2.0\ClassLibrary1.dll
+D:\R\Facultate\Anul III\I.Net\Laboratoare\Laborator4\Lab4\ClassLibrary1\bin\Debug\netcoreapp2.0\ClassLibrary1.pdb
+D:\R\Facultate\Anul III\I.Net\Laboratoare\Laborator4\Lab4\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\R\Facultate\Anul III\I.Net\Laboratoare\Laborator4\Lab4\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\R\Facultate\Anul III\I.Net\Laboratoare\Laborator4\Lab4\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\R\Facultate\Anul III\I.Net\Laboratoare\Laborator4\Lab4\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.AssemblyInfo.cs
+D:\R\Facultate\Anul III\I.Net\Laboratoare\Laborator4\Lab4\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.dll
+D:\R\Facultate\Anul III\I.Net\Laboratoare\Laborator4\Lab4\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\ClassLibraryLab2\ClassLibraryLab2\obj\Debug\netcoreapp2.0\ClassLibraryLab2.csprojResolveAssemblyReference.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\ClassLibraryLab2\ClassLibraryLab2\obj\Debug\netcoreapp2.0\ClassLibraryLab2.csproj.CoreCompileInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\ClassLibraryLab2\ClassLibraryLab2\obj\Debug\netcoreapp2.0\ClassLibraryLab2.AssemblyInfoInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\ClassLibraryLab2\ClassLibraryLab2\obj\Debug\netcoreapp2.0\ClassLibraryLab2.AssemblyInfo.cs
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\ClassLibraryLab2\ClassLibraryLab2\bin\Debug\netcoreapp2.0\ClassLibraryLab2.deps.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\ClassLibraryLab2\ClassLibraryLab2\bin\Debug\netcoreapp2.0\ClassLibraryLab2.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\ClassLibraryLab2\ClassLibraryLab2\bin\Debug\netcoreapp2.0\ClassLibraryLab2.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\ClassLibraryLab2\ClassLibraryLab2\obj\Debug\netcoreapp2.0\ClassLibraryLab2.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\ClassLibraryLab2\ClassLibraryLab2\obj\Debug\netcoreapp2.0\ClassLibraryLab2.pdb
