@@ -1,0 +1,17 @@
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\obj\Debug\netcoreapp2.0\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\obj\Debug\netcoreapp2.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfo.cs
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\bin\Debug\netcoreapp2.0\Presentation.deps.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.dev.json
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\bin\Debug\netcoreapp2.0\Presentation.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\bin\Debug\netcoreapp2.0\Presentation.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\bin\Debug\netcoreapp2.0\Data.Persistance.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\bin\Debug\netcoreapp2.0\Data.Persistance.pdb
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\obj\Debug\netcoreapp2.0\Presentation.dll
+C:\Users\Camelia\Desktop\cursuri FII\An III, Sem V\core .net\Lab7\WebApplication1\obj\Debug\netcoreapp2.0\Presentation.pdb
